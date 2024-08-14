@@ -21,9 +21,6 @@ Zoomify is a modern video conferencing tool built with the latest technologies l
 - **Video Comunication:** getstream 
 - **UI Components:** shadcn
 
-## 📌 Live Site URL: <a href="https://nova-zoom.vercel.app/">**Visit Now** 🚀</a>
+## 📌 Live Site URL: <a href="https://zoomify-six.vercel.app/">**Visit Now** 🚀</a>
 
-## 📬 Connect With Me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-1877F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhdamaan79/)
-[![twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mhdamaan79)
